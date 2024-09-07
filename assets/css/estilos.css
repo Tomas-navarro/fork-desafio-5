@@ -19,6 +19,18 @@ body {
   background-size: cover;
   background-position: center;
 }
+.bg-color-negro{
+  background-color: #000000;
+}
+.bg-color-gris{
+  background-color: #7A7A7A;
+}
+.bg-color-beige{
+  background-color: #A69F95;
+}
+.bg-color-azul{
+  background-color: #606B73;
+}
 
 /* Contacto */
 
